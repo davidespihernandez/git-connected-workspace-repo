@@ -1,0 +1,10 @@
+workspace:
+  id: 60eab3fc-e9cc-471f-9a54-0bdb3dfcf901
+localResources:
+  specs:
+    - ../postman/specs/New Specification/New Specification.yaml
+    - ../index.yaml
+cloudResources:
+  specs:
+    ../postman/specs/New Specification/New Specification.yaml: f7741806-65ee-4207-8e0c-5da6fca465b3
+    ../index.yaml: f27be1b9-7079-4705-987f-c158325d1e99
