@@ -1,9 +1,13 @@
 workspace:
-  id: 60eab3fc-e9cc-471f-9a54-0bdb3dfcf901
+  id: ""
+
 localResources:
   specs:
     - ../postman/specs/New Specification/New Specification.yaml
     - ../index.yaml
+
+# Each entry here maps a local resource to one or more corresponding objects in Postman Cloud
+
 cloudResources:
   specs:
     ../postman/specs/New Specification/New Specification.yaml: f7741806-65ee-4207-8e0c-5da6fca465b3
